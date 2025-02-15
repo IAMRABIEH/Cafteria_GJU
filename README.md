@@ -27,7 +27,7 @@ The **main interface** provides a **smooth and intuitive user experience**, wher
 ---
 
 ### 🖼️ **2. Order Summary & Payment Confirmation**
-
+![Blue and White Clean and Professional Cover Letter-2](https://github.com/user-attachments/assets/ac924ad7-c38a-4423-abd5-ad769c424486)
 
 Once an order is placed, the system automatically **calculates the total cost**, which includes:  
 
@@ -64,12 +64,6 @@ After confirming the payment, the system **assigns an order number** to the user
 - 🧾 **Automated Billing & Receipts** – No more manual calculations!  
 - 🖥️ **User-Friendly Interface** – Simple, clear, and **easy to navigate**.  
 
----
-
-## 💡 **Future Enhancements**
-🔹 **Fix the receipt subtotal and tax calculation bug**.  
-🔹 **Enhance UI** with a **modern design**.  
-🔹 Add **admin controls** to update the menu.  
 
 ---
 
